@@ -2,6 +2,17 @@
   "name": "rtl-sim",
   "version": "0.1.0",
   "description": "Skills for Chipyard/Verilator RTL simulation: building simulators, running and sweeping tests with correct verdicts, reading FST waveforms, and diffing RTL commit logs against spike.",
-  "author": { "name": "eduardo" },
-  "keywords": ["chipyard", "verilator", "rtl", "risc-v", "simulation", "waveform", "spike"]
+  "author": {
+    "name": "eduardo"
+  },
+  "license": "MIT",
+  "keywords": [
+    "chipyard",
+    "verilator",
+    "rtl",
+    "risc-v",
+    "simulation",
+    "waveform",
+    "spike"
+  ]
 }
