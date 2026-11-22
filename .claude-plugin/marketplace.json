@@ -1,0 +1,16 @@
+{
+  "name": "rtl-sim-tools",
+  "owner": { "name": "eduardo" },
+  "metadata": {
+    "description": "Claude Code plugins for RTL simulation and debugging",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "rtl-sim",
+      "source": "./plugins/rtl-sim",
+      "description": "Chipyard/Verilator build, run and sweep; FST waveform analysis; RTL vs spike commit-log diff",
+      "version": "0.1.0"
+    }
+  ]
+}
